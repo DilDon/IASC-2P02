@@ -1,3 +1,11 @@
-#Hello world
+# IASC 2P02 | Don Nguyen
 
-This is the readme file for my IASC 2P02 web portfolio.
+## About me
+
+I am a second year IASC student at Brock University. This is my awesome portfolio site.
+
+![](imagez/crying.jpg)
+
+## Blog post 
+
+First sentence of blog post goes here... 
