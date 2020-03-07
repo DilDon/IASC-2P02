@@ -1,8 +1,6 @@
+"Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital humanities scholarship, where readers are asked to think critically across both textual and graphical modes. As such, digital humanities scholarship should increasingly create multimodal scholarship where readers interpret both the text and any other media (such as graphs, images, audio, and so on). Creating scholarship that asks readers to interpret across multiple modes will distinguish digital humanities scholarship from scholarship in the sciences."
 
-
- Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital humanities scholarship, where readers are asked to think critically across both textual and graphical modes. As such, digital humanities scholarship should increasingly create multimodal scholarship where readers interpret both the text and any other media (such as graphs, images, audio, and so on). Creating scholarship that asks readers to interpret across multiple modes will distinguish digital humanities scholarship from scholarship in the sciences. 
-
-Pellentesque hendrerit mauris at velit sodales, quis mollis augue volutpat. Etiam suscipit lectus mauris, at pretium elit faucibus vitae. Nullam massa nisi, porta sed molestie in, commodo non felis. Morbi auctor dignissim consectetur. Sed ullamcorper feugiat lorem et molestie. Donec sed eros neque. Donec vitae tincidunt eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum nec mi vestibulum, molestie tortor a, maximus turpis. In lacinia tempor ipsum id mollis. 
+Personally, I agree with this. I believe that by creating multimodal scholarships, readers would learn to look beyond the surface. With how open the Digital Humanities are, it makes sense that they should create more multlimodal scholarships.  
 
 Proin a mollis nunc. Quisque vitae pretium tortor. Praesent non velit et nulla venenatis lobortis. Vivamus ac mi sed eros fringilla blandit sit amet quis ante. Proin lobortis ornare aliquam. Proin ac odio enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer sit amet lectus et lacus porta mollis sit amet in lorem. Sed sodales porttitor bibendum. 
 
@@ -12,11 +10,11 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<!--
-<iframe style='width: 477px; height: 397px;' src='https://voyant-tools.org/tool/Trends/?query=culture&query=cultural&corpus=40da2583daca4c2db1ab49b9ae4d94aa'></iframe>
--->
 
-<iframe style= "width: 100%; height: 1000px;" src="index.html"></iframe>
+<!-- <iframe style='width: 477px; height: 397px;' src='https://voyant-tools.org/tool/Trends/?query=culture&query=cultural&corpus=40da2583daca4c2db1ab49b9ae4d94aa'></iframe> -->
+
+
+<!-- <iframe style= "width: 100%; height: 1000px;" src="index.html"></iframe> -->
 
 Donec sed quam pulvinar, gravida lorem sit amet, iaculis turpis. Vestibulum vel tincidunt enim. Praesent eleifend tincidunt nunc sit amet tristique. Vivamus lectus ante, dictum in rhoncus eget, cursus gravida nibh. Aliquam tincidunt massa a tellus venenatis, sit amet iaculis est cursus. Praesent facilisis mi et consectetur vehicula. Aliquam sit amet efficitur libero. 
 
