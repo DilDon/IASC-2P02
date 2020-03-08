@@ -2,6 +2,9 @@
 
 Personally, I agree with this. I believe that by creating multimodal scholarships, readers would learn to look beyond the surface. With how open the Digital Humanities are, it makes sense that they should be creating more multlimodal scholarships. By incorporating a multimodal form of learning, you would be able to benefit students with different learning styles since multimodal learning engages the brain in multiple ways at once using various forms of media. By combining the various ways students learn, teachers would be able to create an ideal learning environment for each one of their students at once.  
 
+As Michael Manderino puts it in the book "Legibility in the Age of Signs and Machines", the close readings of digital and visual texts today requires that we engage our students in specific non-linear strategies across multiple texts, simutaneously. "We want students to recieve training in multimodal texts, which means they have to learn how to synthesize across multiple text types." The book also suggests that we should further develop distant reading as well as close reading techniques.
+
+
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
