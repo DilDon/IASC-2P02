@@ -25,3 +25,15 @@ Feel free to change the height and width values or other styling below: -->
 The beauty of Digital Humanities is that the opportunity to learn isn't ever limited to the classroom. Students feel most comfortable when they are able to learn at their own pace along with the freedom of learning in their own way. The greatest benefit of using multimodal forms of learning is that it allows unlimited, continuous, scalable learning. It not only allows people to analyze the effectiveness of learning in a class, but also enables understanding and optimized learning in real world environments.  
 
 For most learners, multimodal learning strategies are certainly a step in the right direction as it allows students to be more aware of learning preferences resulting in a deeper desire to learn new material. By combining various forms of learning, this may also result in a more balanced approach to studying and learning which leads to a greater understanding and comprehension. By incorporating multimodality, scholars will be able to pass down their research and information in a way that the future generations of the digital humanities will able to easily analyze and interpret.
+
+##Citations
+
+"The Benefits Of Multimodal Learning Strategies | Solidprofessor". Solidprofessor, 2020, https://www.solidprofessor.com/blog/multimodal-approach-learning/.
+
+Hesselberth, Pepita. Legibility In The Age Of Signs And Machines. Koninklijke Brill NV, 2018.
+
+"VISUAL, AUDITORY, KINESTHETIC AND MULTIMODAL LEARNING. | Academics.Uafs.Edu". Academics.Uafs.Edu, 2020, https://academics.uafs.edu/academic-success/visual-learning-strategies.
+
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+
+"Benefits Of Multimodal Learning And How To Choose The Right Learning Partner". HR Katha, 2020, https://www.hrkatha.com/special/learn-engage-transform/benefits-of-multimodal-learning-and-how-to-choose-the-right-learning-partner/.
