@@ -3,7 +3,7 @@
 ## About me
 Yo, My name is Don Nguyen and I'm a second year Interactive Arts and Science student at Brock University. I love sports, video games, and I specialize in digital art.
 
-![](images/KurokoToKagami.PNG)
+![](images/KurokoToKagami.png)
 
 ## Blog post 
 
