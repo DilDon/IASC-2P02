@@ -1,11 +1,10 @@
 # IASC 2P02 | Don Nguyen
 
 ## About me
+Yo, My name is Don Nguyen and I'm a second year Interactive Arts and Science student at Brock University. I love sports, video games, and I specialize in digital art.
 
-I am a second year IASC student at Brock University. This is my awesome portfolio site.
-
-![](images/crying.jpg)
+![](Don/KurokoToKagami.PNG)
 
 ## Blog post 
 
-First sentence of blog post goes here... [continue reading](blog)
+Click here to see my blog... [continue reading](blog)
