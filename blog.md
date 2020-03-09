@@ -10,6 +10,10 @@ Not just through immersion, but using various modes of learning also improves at
 
 Both Drucker and Moretti that using a multimodal mdeium of written and visual expressions offer a model for the next generaion of digital humanities scholarships. They believe that by combining different forms of media, you are able to see diiferent perspectives of the information you are analyzing and just as Drucker strongly believes, "humanities are committed to the concept of knowledge as interpretation." Compared to simply reading a book or just looking at a picture, you are given much more information to work with from reading a comic book which is a combination of both forms of media. By combining various forms of media together, you would be able to create an easier method of analysing information. Which is essential for the digital humanities as it is a ever expanding industry that is always eager to learn.
 
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 637px; height: 505px;' src='https://voyant-tools.org/tool/Trends/?query=capta*&query=interpretation&query=graphs*&query=visualization&corpus=7b7272c662460400c7e0701e025f6fa0'></iframe>
